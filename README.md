@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there, I'm Siseko
 
-<!--
-**TheRealSiseko/TheRealSiseko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **IT Technician** with a passion for technology, cloud computing, and systems support. I hold industry-recognized certifications including:
 
-Here are some ideas to get you started:
+- 📘 **CompTIA A+**
+- 🌐 **CompTIA Network+**
+- ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)**
+- 🔧 **Microsoft Certified: Azure Administrator Associate (AZ-104)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving real-world problems using technology and continuously learning new systems, tools, and platforms. I bring hands-on experience in hardware and software support, network troubleshooting, and cloud-based services (especially Microsoft Azure).
+
+## 💻 Skills & Tools
+
+- **IT Support:** Hardware & software troubleshooting, user support, system maintenance
+- **Networking:** LAN/WAN configuration, IP addressing, DNS, DHCP
+- **Cloud Computing:** Microsoft Azure, Azure Active Directory, VM management
+- **Operating Systems:** Windows, Linux (basic)
+- **Other Tools:** Git, PowerShell, Office 365, Microsoft Endpoint Manager
+
+- ## 📊 GitHub Stats
+
+![Siseko's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/siseko-sigoxo/))  
+- 📧 Email: sgsigoxo@gmail.com  
+
+
