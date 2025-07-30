@@ -17,9 +17,7 @@ I enjoy solving real-world problems using technology and continuously learning n
 - **Operating Systems:** Windows, Linux (basic)
 - **Other Tools:** Git, PowerShell, Office 365, Microsoft Endpoint Manager
 
-- ## 📊 GitHub Stats
 
-![Siseko's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
 
 ---
 
